@@ -1,4 +1,4 @@
-# Python Sorting Algorithm Analyzer
+# Sorting Algorithm Analyzer
 
 This project is a Python tool to analyze and plot the performance of various sorting algorithms. It was built for an algorithms course to demonstrate the practical differences between algorithms based on time complexity and implementation.
 
